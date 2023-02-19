@@ -29,7 +29,7 @@ mod path_item;
 mod r#ref;
 mod request_body;
 mod response;
-mod schema;
+pub mod schema;
 mod security_scheme;
 mod server;
 mod tag;
